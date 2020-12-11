@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Mathieu, and I'm a Senior Software Engineer @LogMeIn
+#### My name is Mathieu, and I'm a Tech Lead @LogMeIn
 
 I am a passionate developer who loves messing around with front-end stuff :
 
