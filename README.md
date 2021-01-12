@@ -12,3 +12,7 @@ I'm currently helping my company build a Design System to enforce a consistent U
 Trying to split my spare time between Zwifting, Snowmobiling in winter time, and contributing in the Open Source comunity 😃
 
 ...oh and I love coffee ☕️
+
+<hr />
+
+[![m4thieulavoie's github stats](https://github-readme-stats.vercel.app/api?username=m4thieulavoie&theme=dracula)](https://github.com/m4thieulavoie/github-readme-stats)
