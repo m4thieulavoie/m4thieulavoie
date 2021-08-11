@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Mathieu, and I'm a Tech Lead @LogMeIn
+#### My name is Mathieu, and I'm a Senior Software Developer
 
 I am a passionate developer who loves messing around with front-end stuff :
 
@@ -9,9 +9,9 @@ I am a passionate developer who loves messing around with front-end stuff :
 
 I'm currently helping my company build a Design System to enforce a consistent UI across the board. Been at LogMeIn since end of 2018.
 
-Trying to split my spare time between Zwifting, Snowmobiling in winter time, and contributing in the Open Source comunity 😃
+Trying to split my spare time between going to the Gym, Snowmobiling in winter time, and contributing in the Open Source comunity 😃
 
-...oh and I love coffee ☕️
+...oh and I love coffee... a lot ☕️
 
 <hr />
 
