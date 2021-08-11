@@ -1,17 +1,13 @@
 ### Hi there 👋
 #### My name is Mathieu, and I'm a Senior Software Developer
 
+<img src="https://img.shields.io/badge/Coffee%20drinker-%E2%98%95%EF%B8%8F-brown" /> <img src="https://img.shields.io/badge/Gym%20goer-%F0%9F%92%AA-blue" />
+
 I am a passionate developer who loves messing around with front-end stuff :
 
 * **CSS**: SCSS, Custom properties
 * **Javascript**: Typescript, Babel, Webpack, Jest
 * **HTML**: a11y (trying..? 😅), Web Components
-
-I'm currently helping my company build a Design System to enforce a consistent UI across the board. Been at LogMeIn since end of 2018.
-
-Trying to split my spare time between going to the Gym, Snowmobiling in winter time, and contributing in the Open Source comunity 😃
-
-...oh and I love coffee... a lot ☕️
 
 <hr />
 
