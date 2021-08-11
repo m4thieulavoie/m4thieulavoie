@@ -10,7 +10,12 @@ I am a passionate developer who loves messing around with front-end stuff :
 * **HTML**: a11y (trying..? 😅), Web Components
 
 <hr />
-
-![m4thieulavoie's github stats](https://github-readme-stats.vercel.app/api?username=m4thieulavoie&theme=dracula&count_private=true&show_icons=true)
+<div style="display: inline-flex;align-items: center">
+  <div style="width: 50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4thieulavoie&theme=dracula" />
+  </div>
+  <div style="width: 50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=m4thieulavoie&theme=dracula&count_private=true&show_icons=true" />
+  </div>
+</div>
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4thieulavoie&theme=dracula)
