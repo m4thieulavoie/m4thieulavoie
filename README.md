@@ -1,13 +1,13 @@
 ### Hi there 👋
 #### My name is Mathieu, and I'm a Senior Software Developer at Shopify
 
-<img src="https://img.shields.io/badge/Coffee%20drinker-%E2%98%95%EF%B8%8F-brown" /> <img src="https://img.shields.io/badge/Gym%20goer-%F0%9F%92%AA-blue" />
+<img src="https://img.shields.io/badge/Coffee%20drinker-%E2%98%95%EF%B8%8F-brown" /> <img src="https://img.shields.io/badge/Gym%20goer(pre pandemic)-%F0%9F%92%AA-blue" /> <img src="https://img.shields.io/badge/Zwift%20cycler-🚴‍♀️-orange" />
 
 I am a passionate developer who loves messing around with front-end stuff :
 
 * **CSS**: SCSS, Custom properties
-* **Javascript**: Typescript, Babel, Webpack, Jest
-* **HTML**: a11y (trying..? 😅), Web Components
+* **Javascript**: Typescript, Babel, Webpack, Jest, React
+* **HTML**: a11y, semantics, Web Components
 
 <hr />
 
