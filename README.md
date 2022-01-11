@@ -1,7 +1,7 @@
 ### Hi there 👋
-#### My name is Mathieu, and I'm a Senior Software Developer at Shopify
+#### My name is Matt, and I'm a Senior Software Developer at [Shopify](https://github.com/Shopify)
 
-<img src="https://img.shields.io/badge/Coffee%20drinker-%E2%98%95%EF%B8%8F-brown" /> <img src="https://img.shields.io/badge/Gym%20goer(pre pandemic)-%F0%9F%92%AA-blue" /> <img src="https://img.shields.io/badge/Zwift%20cycler-🚴‍♀️-orange" />
+<img src="https://img.shields.io/badge/Coffee%20drinker-%E2%98%95%EF%B8%8F-brown" /> <img src="https://img.shields.io/badge/Gym%20goer(pre pandemic)-%F0%9F%92%AA-blue" /> <img src="https://img.shields.io/badge/Zwift%20cycler-🚴‍♀️-orange" /> <img src="https://img.shields.io/badge/Open Source Contributor-💻-silver" />
 
 I am a passionate developer who loves messing around with front-end stuff :
 
