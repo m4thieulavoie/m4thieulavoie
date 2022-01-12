@@ -5,6 +5,7 @@
 
 I am a passionate developer who loves messing around with front-end stuff :
 
+* **Web Technologies**: Design Systems, WCAG, `eslint`, `prettier`
 * **CSS**: SCSS, Custom properties
 * **Javascript**: Typescript, Babel, Webpack, Jest, React
 * **HTML**: a11y, semantics, Web Components
