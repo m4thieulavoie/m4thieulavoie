@@ -9,14 +9,3 @@ I am a passionate developer who loves messing around with front-end stuff :
 * **CSS**: SCSS, Custom properties
 * **Javascript**: Typescript, Babel, Webpack, Jest, React
 * **HTML**: a11y, semantics, Web Components
-
-<hr />
-
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4thieulavoie&theme=dracula" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=m4thieulavoie&theme=dracula&count_private=true&show_icons=true" /></td>
-  </tr>
-</table>
-
-<br />
